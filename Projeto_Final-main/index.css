@@ -1,0 +1,23 @@
+* {
+    background-color: beige;
+  
+   
+}
+.image-container {
+    float: right;
+    margin-left: 20px;
+    margin-top: -40px;
+  }
+.titulo {
+    top:30%;
+    
+}
+.container2 {
+    display: flex ;
+}
+h1 {
+    margin-top: 80px
+}
+.footer {
+    text-align: center;
+}
